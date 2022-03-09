@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @fatihkeskin6
-- 👀 I’m interested in Data Engineering.
-- 🌱 I’m currently learning C,C#,SQL,Python
+- 👀 I’m interested in Mobile Developing.
+- 🌱 I’m currently learning Java,C,Flutter,Swift,React Native
 
