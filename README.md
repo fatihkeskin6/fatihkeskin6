@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @fatihkeskin6
-- 👀 I’m interested in Mobile Developing.
-- 🌱 I’m currently learning Java,C,Flutter,Swift,React Native
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Python, ML Algorithms, R
 
